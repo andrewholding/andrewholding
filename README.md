@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently research breast cancer.
+- 👯 I’m looking to collaborate on genomics, proteomics and machine learning.
+- 💬 Ask me about my resaerch.
+- 📫 How to reach me: [Andrew Holding on Twitter](https://twitter.com/AndrewHolding) or <a rel="me" href="https://mastodon.social/@andrewholding">Mastodon</a>
+- 😄 Pronouns: He/Him
