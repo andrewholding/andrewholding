@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently research breast cancer.
 - 👯 I’m looking to collaborate on genomics, proteomics and machine learning.
 - 💬 Ask me about my resaerch.
-- 📫 How to reach me: [Andrew Holding on Twitter](https://twitter.com/AndrewHolding) or on <a rel="me" href="https://mastodon.social/@andrewholding">Mastodon</a>
+- 🔬 Find my research at https://scholar.google.com/citations?user=aFdAIHAAAAAJ
+- 📫 How to reach me: AndrewHolding.com
 - 😄 Pronouns: He/Him
